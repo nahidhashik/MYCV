@@ -1,0 +1,64 @@
+body{
+
+    
+    margin: 2%;
+
+}
+
+.first_section{
+
+
+    display: flex;
+    background: url(image/top-banner.png);
+    background-repeat: no-repeat;
+   
+    
+}
+.first_section img{
+
+    width: 40%;
+    padding-left: 55%;
+}
+#left_side{
+
+    text-align: right;
+
+}
+
+
+
+
+#entrepreneur{
+
+    color: red;
+}
+
+
+
+
+
+
+.second_section{
+
+    padding-left: 20%;
+    background-color: bisque;
+    border-bottom: 5%;
+    padding: 5%;
+
+}
+
+
+.third_section{
+
+    padding-left: 20%;
+    background-color: white;
+    border-bottom: 5%;
+    padding: 5%;
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    
+
+
+}
+
+
